@@ -1,0 +1,10 @@
+{
+  "app": "Base Focus Sprint",
+  "theme": "work sprint",
+  "baseAppId": "6a0587b48f636ba200aa0243",
+  "builderWallet": "0x9115Af9a084d951688d4291d82e08336131da702",
+  "builderCode": "bc_35hvyvha",
+  "network": "Base",
+  "liveDemo": "https://base-focus-sprint.vercel.app",
+  "repository": "https://github.com/decadent0014/base-focus-sprint-base-dapp"
+}
